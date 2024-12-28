@@ -1,6 +1,3 @@
-[submodule "SHD-WebsiteFingerprintingLab"]
-	path = SHD-WebsiteFingerprintingLab
-	url = https://github.com/CSAIL-Arch-Sec/SHD-WebsiteFingerprintingLab
 [submodule "SHD-CacheAttackLab"]
 	path = SHD-CacheAttackLab
 	url = https://github.com/CSAIL-Arch-Sec/SHD-CacheAttackLab
